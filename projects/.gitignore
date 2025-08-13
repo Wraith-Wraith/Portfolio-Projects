@@ -1,0 +1,14 @@
+**/file.done
+**/file.progress
+root_tree.py
+
+__pycache__/
+*.pyc
+
+venv/
+.env/
+
+*.log
+
+.vscode/
+.idea/
